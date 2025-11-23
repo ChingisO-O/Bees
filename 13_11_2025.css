@@ -1,5 +1,4 @@
 
-/* 3. Name & ID design */
 p.centered {
     text-indent: 3mm;
     text-align: center;
@@ -13,7 +12,6 @@ em {
     font-weight: bold;
 }
 
-/* 4. Center GitHub icon & link */
 .center-icon img {
     display: inline-block;
     margin: 0 auto;
@@ -23,7 +21,6 @@ em {
     text-align: center;
 }
 
-/* 5. Course list border & background */
 ol {
     border: thick solid purple;
     margin-bottom: 1em;
@@ -36,11 +33,10 @@ ol {
 .bees-title {
     color: red;
     font-weight: bold;
-    font-size: 30px;  /* YOU CAN CHANGE THE SIZE */
+    font-size: 30px;
     text-decoration: underline;
 }
 
-/* 7. Table heading design */
 table th {
     background-color: orange;
     color: black;
@@ -48,3 +44,4 @@ table th {
     text-align: center;
     font-weight: bold;
 }
+
